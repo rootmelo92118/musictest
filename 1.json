@@ -1,0 +1,23 @@
+{
+    "cpu": "Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz",
+    "dmi": {
+        "bios_date": "12/01/2006",
+        "bios_vendor": "innotek GmbH",
+        "bios_version": "VirtualBox",
+        "board_name": "VirtualBox",
+        "board_serial": "0",
+        "board_vendor": "Oracle Corporation",
+        "board_version": "1.2",
+        "product_family": "Virtual Machine",
+        "product_name": "VirtualBox",
+        "product_serial": "0",
+        "product_uuid": "57a7656a-7509-0643-a7ca-01478c30a41b",
+        "product_version": "1.2"
+    },
+    "hostname": "kitayama-PC",
+    "id": "fb9f7e8d4cf0cfb4a545dfae84eb8545d05610d1f21f0f00b5468c5e6e6cbdf0",
+    "laptop": true,
+    "memory": 4041700,
+    "network_cards": "[{\"Name\":\"Intel Corporation 82540EM Gigabit Ethernet Controller\",\"Vendor\":\"8086\",\"Product\":\"100E\",\"Slot\":\"pci\",\"Address\":\"08:00:27:7c:6d:92\",\"IP\":\"10.0.2.15\"}]",
+    "username": "kitayama"
+}
